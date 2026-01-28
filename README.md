@@ -1,4 +1,5 @@
-#Customer_Churn_Analysis
+## customer_churn_analysis
+
 📊 Data Analytics Project – End-to-End Analysis & Dashboard
 📌 Overview
 
